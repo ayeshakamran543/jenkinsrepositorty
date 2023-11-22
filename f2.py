@@ -1,1 +1,1 @@
-print 'Hello from file 2'
+print ('Hello from file 2')
